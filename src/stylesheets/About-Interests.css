@@ -1,0 +1,15 @@
+.content-wrapper {
+    max-width: 247px;
+    margin-top: 2rem;
+}
+.content-title {
+    margin-bottom: 0.5rem;
+}
+.content-text {
+    font-size: 10.5px;
+    line-height: 150%;
+    text-align: justify;
+}
+.interests-wrapper {
+    margin: 1rem auto 2rem auto;
+}

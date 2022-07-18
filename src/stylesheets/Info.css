@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.info-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info-img {
+    width: 317px;
+    border-radius: 10px 10px 0px 0px;
+}
+.info-title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 1rem;
+}
+.info-position {
+    font-size: 13px;
+    color: #F3BF99;
+    text-align: center;
+    padding-top: 0.25rem;
+}
+.info-web {
+    text-align: center;
+    color: inherit;
+    text-decoration: none;
+    font-size: 11px;
+    padding-top: 0.5rem;
+}
+.buttons-wrapper {
+    display: flex;
+    gap: 1rem;
+    padding-top: 1rem;
+}
+.info-button-Email {
+    background-color: #FFFFFF;
+    color: #374151;
+}
+.info-button-LinkedIn {
+    background-color: #5093E2;
+    color: #FFFFFF;
+}
