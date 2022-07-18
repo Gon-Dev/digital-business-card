@@ -1,8 +1,8 @@
 import './App.css';
-import Info from './Components/Info.jsx';
-import About  from './Components/About.jsx';
-import Interests  from './Components/Interests.jsx';
-import Footer from './Components/Footer.jsx';
+import Info from './Components/Info';
+import About  from './Components/About';
+import Interests  from './Components/Interests';
+import Footer from './Components/Footer';
 function App() {
   return (
     <div className="App">

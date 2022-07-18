@@ -1,8 +1,8 @@
 import React from "react";
-import fb from '../images/facebook.svg'
-import ig from '../images/instagram.svg'
-import tw from '../images/twitter.svg'
-import gh from '../images/github.svg'
+import fb from '../assets/facebook.svg'
+import ig from '../assets/instagram.svg'
+import tw from '../assets/twitter.svg'
+import gh from '../assets/github.svg'
 import '../stylesheets/Footer.css'
 function Footer() {
     return (

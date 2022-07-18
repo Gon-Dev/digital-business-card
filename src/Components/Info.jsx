@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "./Button.jsx";
-import profileImage from '../images/profile.jpg';
+import profileImage from '../assets/profile.jpg';
 import emailIcon from '../assets/email-icon.svg'
 import linkedInIcon from '../assets/linkedin.svg';
 import '../stylesheets/Info.css';
